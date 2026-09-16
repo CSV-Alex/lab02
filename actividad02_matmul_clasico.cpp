@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
         cerr << "Uso: " << argv[0] << " <n> <reps>\n";
         return 1;
     }
-    int n    = atoi(argv[1]);
+    int n = atoi(argv[1]);
     int reps = atoi(argv[2]);
 
     vector<double> A(n * n), B(n * n), C(n * n);
