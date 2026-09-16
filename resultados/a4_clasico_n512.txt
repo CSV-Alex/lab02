@@ -1,0 +1,2 @@
+n,algoritmo,tiempo_min_s,checksum
+512,clasica,1.09274,65557.9

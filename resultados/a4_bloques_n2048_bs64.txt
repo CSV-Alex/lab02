@@ -1,0 +1,2 @@
+n,BS,algoritmo,tiempo_min_s,checksum
+2048,64,bloques,52.0286,1.04839e+06
